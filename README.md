@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://omarmarufi.com)**
+- 👨‍💻 All of my projects are available at **[MY WEBSITE](https://omarmarufi.com)**
 
 - 📫 How to reach me **omar_marufi@outlook.com**
 
