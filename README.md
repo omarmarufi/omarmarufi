@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EDU Web**
 
-- 🌱 I’m currently learning **JAVA | Python | Django | QT5**
+- 🌱 I’m currently learning **JAVA | PYTHON | DJANGO | QT5**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
