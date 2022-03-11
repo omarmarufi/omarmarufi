@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://omarmarufi.com](https://omarmarufi.com)
 
-- 💬 Ask me about **PYTHON | Flask | SQL**
+- 💬 Ask me about **PYTHON | FLASK | SQL**
 
 - 📫 How to reach me **omar_marufi@outlook.com**
 
